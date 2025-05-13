@@ -3,13 +3,13 @@
 # DESCRIPTION
 #
 A Spring Boot project to build a currency converter, 
-This converter is using a free API Key from exchangerates.io hence there is a 
-limitation on the number of  base currency. We only have EUR as 
-the base currency becaues of this limitation.
+This converter is using a free API Key from exchangerates.io, hence there is a 
+limitation on the number of  base currencies. We only have EUR as 
+the base currency because of this limitation.
 #
 # Feature
 #
-The following software were use to create this converter
+The following software was used to create this converter
 + Spring Boot
 + JavaScript
 + HTML
@@ -23,7 +23,7 @@ The following software were use to create this converter
 + /CurrencyConverter
 + Right-click this class and choose to open it in the Browser.
 + 
-<img src = "" alt = "" width = "">
+<img src = "https://github.com/Fonbod1/currency-converter/blob/master/Run%20Currency%20Converter.png?raw=true" alt = "CurrecyConverter Access Path" width = "900">
 
 
 
