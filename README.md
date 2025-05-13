@@ -20,11 +20,11 @@ The following software was used to create this converter
 + Open the project package: com.k48.currency_converter
 + Goto Resources
 + You will find a class: CurrencyConverter
-+ /CurrencyConverter
++ CurrencyConverter
 + Right-click this class and choose to open it in the Browser.
 #
 <img src = "https://github.com/Fonbod1/currency-converter/blob/master/ScreenShots/Run%20Currency%20Converter.png?raw=true" alt = "CurrecyConverter Access Path" width = "900" height = "500">
-#
+
 On your web Browser, you will see this:
 
 #
