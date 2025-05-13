@@ -23,7 +23,7 @@ The following software was used to create this converter
 + /CurrencyConverter
 + Right-click this class and choose to open it in the Browser.
 + 
-<img src = "https://github.com/Fonbod1/currency-converter/blob/master/Run%20Currency%20Converter.png?raw=true" alt = "CurrecyConverter Access Path" width = "900">
+<img src = "https://github.com/Fonbod1/currency-converter/blob/master/ScreenShots/Run%20Currency%20Converter.png?raw=true" alt = "CurrecyConverter Access Path" width = "900">
 
 
 
