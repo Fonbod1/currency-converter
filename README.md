@@ -22,6 +22,9 @@ The following software were use to create this converter
 + You will find a class : CurrencyConverter
 + /CurrencyConverter
 + Right click this class and choose to open it in the Browser.
++ 
+
+
 
 
 
