@@ -16,14 +16,14 @@ The following software were use to create this converter
 #
 # HOW TO RUN THE CONVERTER
 #
-+ Run the run the application from spring boot,
++ Run the application from Spring Boot,
 + Open the project package: com.k48.currency_converter
-+ Goto Resouces
-+ You will find a class : CurrencyConverter
++ Goto Resources
++ You will find a class: CurrencyConverter
 + /CurrencyConverter
-+ Right click this class and choose to open it in the Browser.
++ Right-click this class and choose to open it in the Browser.
 + 
-
+<img src = "" alt = "" width = "">
 
 
 
